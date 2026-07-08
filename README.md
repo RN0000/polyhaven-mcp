@@ -69,8 +69,6 @@ Just a friendly heads-up: while this MCP server helps you connect to PolyHaven's
 
 PolyHaven is generous enough to offer their API for free when used for **non-commercial projects and academic research**. If you're building something commercial, you'll need to reach out to them for a custom license or sponsorship. Be sure to check out [PolyHaven's Terms of Service](https://github.com/Poly-Haven/Public-API/blob/master/ToS.md) to make sure you're playing by the rules!
 
-(Also, don't worry about the technical details—this server automatically includes the custom `User-Agent` header that they require for tracking API usage.)
-
 ## License
 
 This project is licensed under the ISC License. See the `package.json` for more details. PolyHaven's assets are distributed under the CC0 license.
