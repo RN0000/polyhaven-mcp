@@ -63,11 +63,13 @@ Add the following to your MCP client's configuration file:
 
 Make sure to replace `/absolute/path/to/polyhaven-mcp/build/index.js` with the actual path to the compiled `index.js` file on your system.
 
-## Terms of Service Note
+## A Quick Note on API Usage
 
-The PolyHaven API is **free to use for non-commercial** projects and academic research. Commercial usage of the API requires a custom license or sponsorship. By using this MCP server, you agree to abide by [PolyHaven's Terms of Service](https://github.com/Poly-Haven/Public-API/blob/master/ToS.md).
+Just a friendly heads-up: while this MCP server helps you connect to PolyHaven's awesome API, this project is **not affiliated with, endorsed by, or officially connected to PolyHaven** in any way.
 
-The requests made by this server use a custom `User-Agent` header as required by the API guidelines.
+PolyHaven is generous enough to offer their API for free when used for **non-commercial projects and academic research**. If you're building something commercial, you'll need to reach out to them for a custom license or sponsorship. Be sure to check out [PolyHaven's Terms of Service](https://github.com/Poly-Haven/Public-API/blob/master/ToS.md) to make sure you're playing by the rules!
+
+(Also, don't worry about the technical details—this server automatically includes the custom `User-Agent` header that they require for tracking API usage.)
 
 ## License
 
